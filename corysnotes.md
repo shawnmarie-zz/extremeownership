@@ -29,7 +29,7 @@ when doubters question whether victory is even possible.
 * Extreme Ownership
   * Leaders must own everything else in their world. There is no one else to blame.
 
-# Chapter. 1, "Extreme Ownership"
+# Chapter 1, "Extreme Ownership"
 
 * His realization that what happened with the blue-on-blue was his fault.
 
