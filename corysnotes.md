@@ -28,3 +28,10 @@ when doubters question whether victory is even possible.
 
 * Extreme Ownership
   * Leaders must own everything else in their world. There is no one else to blame.
+
+# Chapter. 1, "Extreme Ownership"
+
+* His realization that what happened with the blue-on-blue was his fault.
+
+  > I had to take complete ownership of what went wrong. 
+  > That is what a leader does - even if it means getting fired.
