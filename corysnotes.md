@@ -61,3 +61,17 @@ when doubters question whether victory is even possible.
     * Learning
     * Growing as a leader
     * Improving on a team's performance
+
+* Extreme Ownershiop requires of a leader
+  * To look at an organizations problems through objective reality
+    * Leave behind emotional attachments
+    * Leave behind agendas
+    * Leave behind plans
+  * Has to set ego aside
+  * Has to accept responsibility for failures
+  * Has to attack weaknesses
+  * Has to consistantly work to build a better and more effective team
+  * To not take credit for her/his team's sucesses
+    * To bestow honor upon subordinate leaders and team members
+
+* When a leader sets such an example and expects it of her/his juniors the mindset develops into the culture of the team at every level.
