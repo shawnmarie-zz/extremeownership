@@ -75,3 +75,5 @@ when doubters question whether victory is even possible.
     * To bestow honor upon subordinate leaders and team members
 
 * When a leader sets such an example and expects it of her/his juniors the mindset develops into the culture of the team at every level.
+
+**QUESTION: What are some things baked into the ethos of our product delivery group that look like passing the buck?**
