@@ -52,3 +52,12 @@ when doubters question whether victory is even possible.
     * Circumstances beyond our control or
     * Poorly performing subordinates
     * Anyone but ourselves.
+
+* Taking total responsibility for failure is
+  * Difficult to accept
+  * Requires extreme humility
+  * As well as extreme courage
+  * It's an absolute necessity to:
+    * Learning
+    * Growing as a leader
+    * Improving on a team's performance
