@@ -56,6 +56,8 @@ when doubters question whether victory is even possible.
 * Taking total responsibility for failure is
   * Difficult to accept
   * Requires extreme humility
+    * Be able to diffuse defensiveness and view from outsid in (SMA)
+    * Ask and answer Why? Ask Why until the root is discoverable (SMA)
   * As well as extreme courage
   * It's an absolute necessity to:
     * Learning
